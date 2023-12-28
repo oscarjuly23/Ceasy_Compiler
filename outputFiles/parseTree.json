@@ -1,0 +1,682 @@
+{
+  "root": {
+    "symbol": {
+      "token": "",
+      "regex": "ENTRY_POINT",
+      "lineNumber": 4
+    },
+    "linkedList": [
+      {
+        "symbol": {
+          "token": "",
+          "regex": "FUNC",
+          "lineNumber": 4
+        },
+        "left": {
+          "symbol": {
+            "token": "",
+            "regex": "FUNC_PRIMA",
+            "lineNumber": 4
+          },
+          "left": {
+            "symbol": {
+              "token": "fb",
+              "regex": "NAME",
+              "lineNumber": 4
+            }
+          },
+          "right": {
+            "symbol": {
+              "token": "",
+              "regex": "INT",
+              "lineNumber": 4
+            }
+          },
+          "mid": {
+            "symbol": {
+              "token": "",
+              "regex": "TYPE_VAR_NAME",
+              "lineNumber": 4
+            },
+            "left": {
+              "symbol": {
+                "token": "",
+                "regex": "INT",
+                "lineNumber": 4
+              }
+            },
+            "right": {
+              "symbol": {
+                "token": "num",
+                "regex": "NAME",
+                "lineNumber": 4
+              }
+            }
+          }
+        },
+        "right": {
+          "symbol": {
+            "token": "",
+            "regex": "BLOCK_STATEMENT",
+            "lineNumber": 17
+          },
+          "linkedList": [
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 6
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "VAR_STATEMENT",
+                  "lineNumber": 6
+                },
+                "left": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "TYPE_VAR_NAME",
+                    "lineNumber": 5
+                  },
+                  "left": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "INT",
+                      "lineNumber": 5
+                    }
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "prev",
+                      "regex": "NAME",
+                      "lineNumber": 5
+                    }
+                  }
+                },
+                "right": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "VAR_INIT_STATEMENT",
+                    "lineNumber": 6
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "OPERACIO",
+                      "lineNumber": 6
+                    },
+                    "left": {
+                      "symbol": {
+                        "token": "1",
+                        "regex": "INT_VALUE",
+                        "lineNumber": 6
+                      }
+                    }
+                  },
+                  "mid": {
+                    "symbol": {
+                      "token": "\u003d",
+                      "regex": "EQUAL",
+                      "lineNumber": 6
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 7
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "VAR_STATEMENT",
+                  "lineNumber": 7
+                },
+                "left": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "TYPE_VAR_NAME",
+                    "lineNumber": 7
+                  },
+                  "left": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "INT",
+                      "lineNumber": 6
+                    }
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "prevPrev",
+                      "regex": "NAME",
+                      "lineNumber": 7
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 8
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "VAR_STATEMENT",
+                  "lineNumber": 8
+                },
+                "left": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "TYPE_VAR_NAME",
+                    "lineNumber": 8
+                  },
+                  "left": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "INT",
+                      "lineNumber": 7
+                    }
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "res",
+                      "regex": "NAME",
+                      "lineNumber": 8
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 10
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "VAR_STATEMENT",
+                  "lineNumber": 10
+                },
+                "left": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "TYPE_VAR_NAME",
+                    "lineNumber": 8
+                  },
+                  "left": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "INT",
+                      "lineNumber": 8
+                    }
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "count",
+                      "regex": "NAME",
+                      "lineNumber": 8
+                    }
+                  }
+                },
+                "right": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "VAR_INIT_STATEMENT",
+                    "lineNumber": 10
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "OPERACIO",
+                      "lineNumber": 10
+                    },
+                    "left": {
+                      "symbol": {
+                        "token": "1",
+                        "regex": "INT_VALUE",
+                        "lineNumber": 10
+                      }
+                    }
+                  },
+                  "mid": {
+                    "symbol": {
+                      "token": "\u003d",
+                      "regex": "EQUAL",
+                      "lineNumber": 10
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 16
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "WHILE_EXPRESSION",
+                  "lineNumber": 16
+                },
+                "left": {
+                  "symbol": {
+                    "token": "while",
+                    "regex": "WHILE",
+                    "lineNumber": 16
+                  }
+                },
+                "right": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "CONDITIONAL_BLOCK",
+                    "lineNumber": 16
+                  },
+                  "left": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "EXPRESSION",
+                      "lineNumber": 10
+                    },
+                    "left": {
+                      "symbol": {
+                        "token": "count",
+                        "regex": "NAME",
+                        "lineNumber": 10
+                      }
+                    },
+                    "right": {
+                      "symbol": {
+                        "token": "num",
+                        "regex": "NAME",
+                        "lineNumber": 10
+                      }
+                    },
+                    "mid": {
+                      "symbol": {
+                        "token": "",
+                        "regex": "LOWER_THAN",
+                        "lineNumber": 0
+                      }
+                    }
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "BLOCK_STATEMENT",
+                      "lineNumber": 15
+                    },
+                    "linkedList": [
+                      {
+                        "symbol": {
+                          "token": "",
+                          "regex": "BLOCK_STATEMENT_CONCAT",
+                          "lineNumber": 12
+                        },
+                        "left": {
+                          "symbol": {
+                            "token": "",
+                            "regex": "ASSIGNMENT",
+                            "lineNumber": 12
+                          },
+                          "left": {
+                            "symbol": {
+                              "token": "res",
+                              "regex": "NAME",
+                              "lineNumber": 11
+                            }
+                          },
+                          "right": {
+                            "symbol": {
+                              "token": "",
+                              "regex": "OPERACIO",
+                              "lineNumber": 12
+                            },
+                            "left": {
+                              "symbol": {
+                                "token": "",
+                                "regex": "OPERACIO_BASICA",
+                                "lineNumber": 12
+                              },
+                              "left": {
+                                "symbol": {
+                                  "token": "prevPrev",
+                                  "regex": "NAME",
+                                  "lineNumber": 11
+                                }
+                              },
+                              "right": {
+                                "symbol": {
+                                  "token": "prev",
+                                  "regex": "NAME",
+                                  "lineNumber": 12
+                                }
+                              },
+                              "mid": {
+                                "symbol": {
+                                  "token": "+",
+                                  "regex": "ADD",
+                                  "lineNumber": 12
+                                }
+                              }
+                            }
+                          },
+                          "mid": {
+                            "symbol": {
+                              "token": "\u003d",
+                              "regex": "EQUAL",
+                              "lineNumber": 12
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "symbol": {
+                          "token": "",
+                          "regex": "BLOCK_STATEMENT_CONCAT",
+                          "lineNumber": 13
+                        },
+                        "left": {
+                          "symbol": {
+                            "token": "",
+                            "regex": "ASSIGNMENT",
+                            "lineNumber": 13
+                          },
+                          "left": {
+                            "symbol": {
+                              "token": "prevPrev",
+                              "regex": "NAME",
+                              "lineNumber": 12
+                            }
+                          },
+                          "right": {
+                            "symbol": {
+                              "token": "",
+                              "regex": "OPERACIO",
+                              "lineNumber": 13
+                            },
+                            "left": {
+                              "symbol": {
+                                "token": "prev",
+                                "regex": "NAME",
+                                "lineNumber": 13
+                              }
+                            }
+                          },
+                          "mid": {
+                            "symbol": {
+                              "token": "\u003d",
+                              "regex": "EQUAL",
+                              "lineNumber": 13
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "symbol": {
+                          "token": "",
+                          "regex": "BLOCK_STATEMENT_CONCAT",
+                          "lineNumber": 14
+                        },
+                        "left": {
+                          "symbol": {
+                            "token": "",
+                            "regex": "ASSIGNMENT",
+                            "lineNumber": 14
+                          },
+                          "left": {
+                            "symbol": {
+                              "token": "prev",
+                              "regex": "NAME",
+                              "lineNumber": 13
+                            }
+                          },
+                          "right": {
+                            "symbol": {
+                              "token": "",
+                              "regex": "OPERACIO",
+                              "lineNumber": 14
+                            },
+                            "left": {
+                              "symbol": {
+                                "token": "res",
+                                "regex": "NAME",
+                                "lineNumber": 14
+                              }
+                            }
+                          },
+                          "mid": {
+                            "symbol": {
+                              "token": "\u003d",
+                              "regex": "EQUAL",
+                              "lineNumber": 14
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "symbol": {
+                          "token": "",
+                          "regex": "BLOCK_STATEMENT_CONCAT",
+                          "lineNumber": 15
+                        },
+                        "left": {
+                          "symbol": {
+                            "token": "",
+                            "regex": "ASSIGNMENT",
+                            "lineNumber": 15
+                          },
+                          "left": {
+                            "symbol": {
+                              "token": "count",
+                              "regex": "NAME",
+                              "lineNumber": 14
+                            }
+                          },
+                          "right": {
+                            "symbol": {
+                              "token": "",
+                              "regex": "OPERACIO",
+                              "lineNumber": 15
+                            },
+                            "left": {
+                              "symbol": {
+                                "token": "",
+                                "regex": "OPERACIO_BASICA",
+                                "lineNumber": 15
+                              },
+                              "left": {
+                                "symbol": {
+                                  "token": "count",
+                                  "regex": "NAME",
+                                  "lineNumber": 14
+                                }
+                              },
+                              "right": {
+                                "symbol": {
+                                  "token": "1",
+                                  "regex": "INT_VALUE",
+                                  "lineNumber": 15
+                                }
+                              },
+                              "mid": {
+                                "symbol": {
+                                  "token": "+",
+                                  "regex": "ADD",
+                                  "lineNumber": 15
+                                }
+                              }
+                            }
+                          },
+                          "mid": {
+                            "symbol": {
+                              "token": "\u003d",
+                              "regex": "EQUAL",
+                              "lineNumber": 15
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 17
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "RETURN_INSIDE_FUNCTION",
+                  "lineNumber": 17
+                },
+                "left": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "RETURN",
+                    "lineNumber": 0
+                  }
+                },
+                "right": {
+                  "symbol": {
+                    "token": "res",
+                    "regex": "NAME",
+                    "lineNumber": 17
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "symbol": {
+          "token": "",
+          "regex": "FUNC",
+          "lineNumber": 19
+        },
+        "left": {
+          "symbol": {
+            "token": "",
+            "regex": "FUNC_PRIMA",
+            "lineNumber": 19
+          },
+          "left": {
+            "symbol": {
+              "token": "main",
+              "regex": "MAIN",
+              "lineNumber": 19
+            }
+          },
+          "right": {
+            "symbol": {
+              "token": "",
+              "regex": "VOID",
+              "lineNumber": 19
+            }
+          }
+        },
+        "right": {
+          "symbol": {
+            "token": "",
+            "regex": "BLOCK_STATEMENT",
+            "lineNumber": 23
+          },
+          "linkedList": [
+            {
+              "symbol": {
+                "token": "",
+                "regex": "BLOCK_STATEMENT_CONCAT",
+                "lineNumber": 23
+              },
+              "left": {
+                "symbol": {
+                  "token": "",
+                  "regex": "VAR_STATEMENT",
+                  "lineNumber": 23
+                },
+                "left": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "TYPE_VAR_NAME",
+                    "lineNumber": 21
+                  },
+                  "left": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "INT",
+                      "lineNumber": 21
+                    }
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "a",
+                      "regex": "NAME",
+                      "lineNumber": 21
+                    }
+                  }
+                },
+                "right": {
+                  "symbol": {
+                    "token": "",
+                    "regex": "VAR_INIT_STATEMENT",
+                    "lineNumber": 23
+                  },
+                  "right": {
+                    "symbol": {
+                      "token": "",
+                      "regex": "OPERACIO",
+                      "lineNumber": 23
+                    },
+                    "left": {
+                      "symbol": {
+                        "token": "fb",
+                        "regex": "CALL_FUNC",
+                        "lineNumber": 23
+                      },
+                      "left": {
+                        "symbol": {
+                          "token": "fb",
+                          "regex": "FUNC_ID",
+                          "lineNumber": 23
+                        }
+                      },
+                      "right": {
+                        "symbol": {
+                          "token": "6",
+                          "regex": "INT_VALUE",
+                          "lineNumber": 21
+                        }
+                      }
+                    }
+                  },
+                  "mid": {
+                    "symbol": {
+                      "token": "\u003d",
+                      "regex": "EQUAL",
+                      "lineNumber": 23
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
