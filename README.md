@@ -92,7 +92,7 @@ En resumen, la práctica ha sido un desafío en el que hemos aplicado y comprend
 
 ##
 
-- @date 20 de Mayp 2022
+- @date 20 de Mayo 2022
 - @author Oscar Julian (oscar.julian)
 - @author Carles Torrubiano (carles.torrubiamo)
 - @author Victor Vallés (v.valles)
